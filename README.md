@@ -5,7 +5,7 @@ A professional portfolio showcasing my applied Data Science and Machine Learning
 ## Highlights
 
 * 20+ applied Data Science and Machine Learning projects
-* Experience processing datasets with 5M+ records
+* Experience processing datasets with 1.7M+ records
 * End-to-end ML pipelines using scikit-learn and PyTorch
 * NLP, recommendation systems, time series, and LLM-based agents
 * Deployment with FastAPI, Streamlit, Docker, and Render
